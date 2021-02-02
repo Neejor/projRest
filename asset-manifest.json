@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/Neejor/projRest/static/js/main.d1dd2ae3.chunk.js",
-    "main.js.map": "/Neejor/projRest/static/js/main.d1dd2ae3.chunk.js.map",
-    "runtime-main.js": "/Neejor/projRest/static/js/runtime-main.f66b21fd.js",
-    "runtime-main.js.map": "/Neejor/projRest/static/js/runtime-main.f66b21fd.js.map",
-    "static/js/2.0db1f283.chunk.js": "/Neejor/projRest/static/js/2.0db1f283.chunk.js",
-    "static/js/2.0db1f283.chunk.js.map": "/Neejor/projRest/static/js/2.0db1f283.chunk.js.map",
-    "static/js/3.f98cdbf3.chunk.js": "/Neejor/projRest/static/js/3.f98cdbf3.chunk.js",
-    "static/js/3.f98cdbf3.chunk.js.map": "/Neejor/projRest/static/js/3.f98cdbf3.chunk.js.map",
-    "index.html": "/Neejor/projRest/index.html",
-    "static/js/2.0db1f283.chunk.js.LICENSE.txt": "/Neejor/projRest/static/js/2.0db1f283.chunk.js.LICENSE.txt"
+    "main.js": "/projRest/static/js/main.d1dd2ae3.chunk.js",
+    "main.js.map": "/projRest/static/js/main.d1dd2ae3.chunk.js.map",
+    "runtime-main.js": "/projRest/static/js/runtime-main.d81d714f.js",
+    "runtime-main.js.map": "/projRest/static/js/runtime-main.d81d714f.js.map",
+    "static/js/2.3c21b5a4.chunk.js": "/projRest/static/js/2.3c21b5a4.chunk.js",
+    "static/js/2.3c21b5a4.chunk.js.map": "/projRest/static/js/2.3c21b5a4.chunk.js.map",
+    "static/js/3.f98cdbf3.chunk.js": "/projRest/static/js/3.f98cdbf3.chunk.js",
+    "static/js/3.f98cdbf3.chunk.js.map": "/projRest/static/js/3.f98cdbf3.chunk.js.map",
+    "index.html": "/projRest/index.html",
+    "static/js/2.3c21b5a4.chunk.js.LICENSE.txt": "/projRest/static/js/2.3c21b5a4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f66b21fd.js",
-    "static/js/2.0db1f283.chunk.js",
+    "static/js/runtime-main.d81d714f.js",
+    "static/js/2.3c21b5a4.chunk.js",
     "static/js/main.d1dd2ae3.chunk.js"
   ]
 }
