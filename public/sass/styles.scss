@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;600;800');
+
+%textStyle {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+body {
+  @extend  %textStyle;
+  background-color: GhostWhite;
+}
+
+.navbar {
+  background-color: white;
+}
+
+#navbarTitle {
+  @extend %textStyle;
+  font-weight:800;
+}
+
+.btn {
+  background-color: white;
+}
+
+.btn-check:focus+.btn, .btn:focus {
+  outline: 0;
+  box-shadow: none;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  margin: auto;
+}
+
+#par {
+  // margin: 0 5rem;
+  width: 95%;
+}
+
+.card-title {
+  font-weight: 800;
+
+  p{
+    margin: 0;
+  }
+}
+
+.card-text {
+  margin: 0;
+}
+
+p span {
+  font-weight: 600;
+}
+
+button {
+  background-color: white;
+  border-color: transparent;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+}
+
+.form-control {
+  // display: inline !important;
+  
+  // input{
+  //   display: inline !important;
+  // }
+  border-left: 0;
+}
+
+// .dropdown {
+//   align-self: flex-end;
+//   margin: auto;
+// }
+
+.dropdown{
+  background-color: antiquewhite;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+}

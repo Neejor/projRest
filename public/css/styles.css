@@ -1,0 +1,74 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;600;800");
+#navbarTitle, body {
+  font-family: "Nunito Sans", sans-serif;
+}
+
+body {
+  background-color: GhostWhite;
+}
+
+.navbar {
+  background-color: white;
+}
+
+#navbarTitle {
+  font-weight: 800;
+}
+
+.btn {
+  background-color: white;
+}
+
+.btn-check:focus + .btn, .btn:focus {
+  outline: 0;
+  box-shadow: none;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  margin: auto;
+}
+
+#par {
+  width: 95%;
+}
+
+.card-title {
+  font-weight: 800;
+}
+.card-title p {
+  margin: 0;
+}
+
+.card-text {
+  margin: 0;
+}
+
+p span {
+  font-weight: 600;
+}
+
+button {
+  background-color: white;
+  border-color: transparent;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+}
+
+.form-control {
+  border-left: 0;
+}
+
+.dropdown {
+  background-color: antiquewhite;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+}
+
+# sourceMappingURL=styles.css.map */
