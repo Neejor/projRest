@@ -1,3 +1,10 @@
+# Site URL
+https://neejor.github.io/projRest
+
+# Description
+This is a FrontendMentor challenge implemented to hone prowess in application of React.
+Link to the challenge: https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
